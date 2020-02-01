@@ -1,0 +1,1 @@
+text = "\"Kids with no business meddling with business should be nowhere near this... business.\" \n-Creme Brulee";

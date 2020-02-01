@@ -1,0 +1,2 @@
+text = "With your Denki Blade, crates won't get in your way anymore.\n\nPress L to Attack!";
+if(global.gamepadAvailable) text = "With your Denki Blade, crates won't get in your way anymore.\n\nPress B to Attack!";

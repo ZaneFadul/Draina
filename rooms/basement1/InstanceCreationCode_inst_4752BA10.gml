@@ -1,0 +1,1 @@
+mySkill = "wallJump";

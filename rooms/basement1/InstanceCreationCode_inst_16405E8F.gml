@@ -1,0 +1,1 @@
+text = "It pays to try deviating from what the level suggests you do.";

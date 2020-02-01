@@ -1,0 +1,1 @@
+text = "Did you know that you can dash backwards after you've swung the Denki Blade?\nIt's pretty stylish!";

@@ -1,0 +1,33 @@
+{
+    "id": "6d58673c-45d8-4819-8201-a91da51fff3a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "6d58673c-45d8-4819-8201-a91da51fff3a",
+    "children": [
+        "127dba7b-fa5b-421f-9aaa-c78dfc2a3d8e",
+        "683a3c62-3d38-4ae9-a625-d815ea5f86b1",
+        "b02dafe1-5863-40ef-b4e3-32fc75888c50",
+        "81b0ec62-1bab-4427-b60d-730f45999c1c",
+        "7f243940-3d79-4239-b91f-ec245af53fe1",
+        "c458643b-a532-441f-921b-b7414ed11dfd",
+        "423c88d5-62ee-4fdd-9c2b-bac8f4808ac0",
+        "06389d3d-babf-48f0-83cb-e636f5275c40",
+        "2531f206-bf97-4ecf-ae22-1a2515ac926c",
+        "e91ef81e-3ef8-482a-90ff-fdf4a4330f9b",
+        "d86940a4-00c2-49a5-a1b4-0b0381114b5b",
+        "0f01d2b9-569a-4b29-b572-d80e25a40773",
+        "3381dd23-66d8-4c10-a8e5-e889c3c39614",
+        "d811406d-d896-4aca-9875-5e79ec4bbf68",
+        "d3e6d68d-1011-4683-a036-95d149ade35e",
+        "39cc84d2-51a8-49ae-bee1-a8e955ee0c72",
+        "6e82d7ea-edd9-42f8-ac71-664635fd6025",
+        "da210c15-8a22-4567-9c22-2d1877d0f626",
+        "84392f10-41d9-4438-95ac-2a4b4167174d",
+        "038225d6-6002-4425-8559-d89121b11f2e",
+        "a075e16e-b552-4826-80f0-a159896a7a92"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "electricity",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

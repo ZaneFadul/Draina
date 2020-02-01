@@ -1,0 +1,1 @@
+text = "This is a super secret area that you're not supposed to be able to reach but if you somehow managed to get here, here is a block of text not fitting on a sign :)";
