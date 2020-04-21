@@ -17,9 +17,11 @@ switch(state){
 	break;
 	
 	case "ATTACK":
+	global.state = "ATTACK";
 	generateAI(self,"attack"+string(ai_pattern));
 	if (distance_to_object(oPlayer) > 500){
 		state = "DOCILE";
+		global.state = "NORMAL";
 	}
 	break;
 }

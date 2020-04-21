@@ -8,22 +8,18 @@ if(room_get_name(room) == "setup"){
 	}
 }
 
-if(instance_exists(oEnemy)){
-	if(oEnemy.state == "ATTACK"){
-		audio_group_set_gain(bgm,0,100);
-		audio_sound_gain(uBattle,1,0);
-		if(!audio_is_playing(uBattle)){
-			var btl = audio_play_sound(uBattle,10,1);
-			audio_sound_set_track_position(btl,0.5);
-		} 
-	} else {
-			audio_group_set_gain(bgm,1,200);
-			fadeOut(uBattle);
-		}
-}  else {
+
+if(global.state == "ATTACK"){
+	audio_group_set_gain(bgm,0,100);
+	audio_sound_gain(uBattle2,1,0);
+	if(!audio_is_playing(uBattle2)){
+		var btl = audio_play_sound(uBattle2,10,1);
+		audio_sound_set_track_position(btl,0.5);
+	} 
+} else {
 		audio_group_set_gain(bgm,1,200);
-		fadeOut(uBattle);
-	}
+		fadeOut(uBattle2);
+}
 	
 //loopers
 var roomName = string_digit_clean(room_get_name(room));

@@ -991,6 +991,14 @@
             }
         },
         {
+            "Key": "68a6aae7-07d2-4a2a-abb8-a71b9e21a25b",
+            "Value": {
+                "id": "7e18a73a-aa5a-494e-a981-f5aa79e2bcbe",
+                "resourcePath": "sounds\\uBoss2cont\\uBoss2cont.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "68ba0eda-3989-4723-8166-cf0b49020bd6",
             "Value": {
                 "id": "206837e8-0357-4907-84e3-a662d0837e28",
@@ -1135,6 +1143,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "6f377108-8ca7-4bfa-b5b0-0325fa0c33e9",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "763f4afa-ab4c-4cd7-9940-e97ac81c0e60",
             "Value": {
                 "id": "384b2453-3004-42d8-8663-8223644c3655",
@@ -1223,6 +1239,14 @@
             }
         },
         {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "2d540697-2052-4e3d-acac-24b1ea82934d",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
             "Key": "7f243940-3d79-4239-b91f-ec245af53fe1",
             "Value": {
                 "id": "07e40e08-4669-49af-a8b0-b806dcf55624",
@@ -1295,6 +1319,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "b21d4156-1103-4b49-adb7-81af50d0e9d9",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "84392f10-41d9-4438-95ac-2a4b4167174d",
             "Value": {
                 "id": "d9e15b36-59f2-4554-87e4-da860df2dd0b",
@@ -1308,6 +1340,14 @@
                 "id": "15602bca-583b-42c5-b14b-be246a02f86d",
                 "resourcePath": "scripts\\cutsceneBlack\\cutsceneBlack.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "87b98c91-4b65-4fbb-b30b-e7c411df7722",
+            "Value": {
+                "id": "eae9db85-cfc9-451a-928b-9be8904f73b6",
+                "resourcePath": "sounds\\uBattle2\\uBattle2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1404,6 +1444,14 @@
                 "id": "75294f70-3f4c-427b-9512-b73a6e340247",
                 "resourcePath": "tilesets\\tFactory\\tFactory.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "044095e0-a3f5-4da5-96db-7e09a4ecfeda",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
             }
         },
         {
@@ -1527,6 +1575,14 @@
             }
         },
         {
+            "Key": "9df7105e-1d7d-463a-8079-c960248d1cd5",
+            "Value": {
+                "id": "c54b5f7c-f6b4-44a3-80b2-3ea75159f3fb",
+                "resourcePath": "scripts\\audio_auto\\audio_auto.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9e9cafad-a408-45fd-9f3b-8c1baa6fa982",
             "Value": {
                 "id": "d7b2d89f-e0a6-43be-af49-66e0aa54b541",
@@ -1556,6 +1612,14 @@
                 "id": "12f70cc9-2ba3-4eb4-ae49-a70857abfd34",
                 "resourcePath": "sprites\\purplegrass\\purplegrass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "e12be6af-7bab-4ade-aef9-3defd92fccb4",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -1668,6 +1732,14 @@
                 "id": "c9f707b9-043c-4134-8399-ebd382ee31d0",
                 "resourcePath": "sprites\\sDustParticle\\sDustParticle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ad20cf31-c3f5-4948-b1c5-ab2853fef6a4",
+            "Value": {
+                "id": "c51d2d07-2fae-4ffd-8e5c-69aff31c4c7a",
+                "resourcePath": "sounds\\uBoss2\\uBoss2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -2255,6 +2327,14 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "3171c15b-d490-4a2d-8267-a989216df6ef",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
             "Key": "e52d8a59-b42b-4208-bf17-db3a32e0c25d",
             "Value": {
                 "id": "b9ab9094-586f-4873-9e49-c743e4ef12b9",
@@ -2667,6 +2747,7 @@
         "8839510c-5096-435c-b737-a404f9c5a8f3",
         "361740e1-1ec2-47ac-9ca4-efb9d9911736",
         "2dc1056e-fa5a-4a0e-94d3-2cda138d33bc",
+        "9df7105e-1d7d-463a-8079-c960248d1cd5",
         "34eedfb0-e4c1-46f0-880f-a77f08de0c14",
         "95b29ac1-d01b-4fa7-bd18-4305453b2fe9"
     ],

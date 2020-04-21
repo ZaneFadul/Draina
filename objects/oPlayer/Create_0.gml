@@ -60,7 +60,7 @@ mxVel = 0;
 respawnPoint = [x,y];
 
 //SKILLS UNLOCKED
-unlocked_dash = false;
+unlocked_dash = true;
 unlocked_wallJump = false;
 
 //SPRITE VARIABLES
