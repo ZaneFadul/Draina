@@ -1743,14 +1743,6 @@
             }
         },
         {
-            "Key": "ad34fcc7-182b-4560-b5d0-54363d57b338",
-            "Value": {
-                "id": "79567461-68b0-4f32-aa36-1a8b77b5082e",
-                "resourcePath": "objects\\opoop\\opoop.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ad6909bb-7def-444f-8930-6e5f6ff46dab",
             "Value": {
                 "id": "6519e2dd-c83c-4361-9064-5e8501b66dcf",

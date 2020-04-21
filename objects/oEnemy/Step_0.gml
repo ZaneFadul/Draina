@@ -192,6 +192,7 @@ if(place_meeting(x, y+yVel, oWeapon)){
 //-----------------------------------------------UPDATE POSITION
 if(myHealth < 1){
 	dead = true;
+	global.state = "NORMAL";
 	instance_destroy();
 }
 
